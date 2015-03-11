@@ -11,6 +11,7 @@ import java.util.Random;
 
 public class Blagounette extends GestionSon implements ActionListener{
 	private JButton blagounette;
+	private JButton trotinette;
 	public Blagounette(String title) {
 		super(title);
 		// TODO Auto-generated constructor stub
